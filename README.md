@@ -2,12 +2,6 @@
 
 # Contenus du jeu
 
-## 2 types de cartes
-
-### Cartes Personnages
-
-### Cartes Versets
-
 # But du jeu
 
 Ecrire un maximum de livres de la Bible
@@ -26,7 +20,8 @@ Tous les livres ont besoin de la carte personnage Jésus. Cette carte n'a pas be
 
 ## Début du jeu
 
-Le même nombre de cartes personnages est distribué à chacun.
+Le même nombre de cartes est distribué à chacun.
+Il faut que chacun ait au moins une carte personnage.
 
 ## Déroulement du jeu
 
