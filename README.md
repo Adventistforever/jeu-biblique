@@ -37,8 +37,6 @@ Pour obtenir des cartes, différentes solutions :
 * Citer de mémoire la carte (uniquement pour les versets)
 * Echanger un personnage avec un autre joueur
 
-A chaque tour, chaque joueur peut utiliser les solutions une fois chacune.
-
 ## Fin du jeu
 
-Toute la Bible est complète OU Satan est mort
+Toute la Bible est complète ou la venue de Jésus.
