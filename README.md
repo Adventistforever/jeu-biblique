@@ -9,9 +9,16 @@ Ecrire un maximum de livres de la Bible
 # Principe du jeu
 
 Chaque livre a une liste de cartes personnages nécessaires pour écrire le livre.
+
 Chaque personnage a une liste de cartes outil et de cartes expérience nécessaires pour lui permettre d'écrire le livre.
 
-Les cartes expérience
+## Les cartes personnage
+
+## Les cartes expérience
+
+Les cartes expérience sont des versets de la vie du personnage. Si le joueur connait par coeur la carte, il n'en a pas besoin. Pour prouver qu'il la connait par coeur, il lui suffit 
+
+## Les cartes outil
 
 * Des versets qui donnent de l'expérience
 * Des participants qui vont aider à écrire le livre
