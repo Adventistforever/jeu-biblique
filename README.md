@@ -10,11 +10,21 @@ Ecrire un maximum de livres de la Bible
 
 Chaque livre a une liste de cartes personnages nécessaires pour écrire le livre.
 
-Chaque personnage a une liste de cartes outil, de cartes expérience et de cartes personnages nécessaires pour lui permettre d'écrire le livre. Quand le personnage a toute l'expérience, tous les outils et tous les personnages dont il a besoin, il pourra écrire le livre !
+Chaque personnage a une liste de cartes expérience et de cartes personnages nécessaires pour lui permettre d'écrire le livre. Quand le personnage a toute l'expérience et tous les personnages dont il a besoin, il pourra écrire le livre !
+
+Attention ! Les cartes expérience peuvent avoir besoin de cartes outil !
 
 ## Les cartes personnage
 
-Les cartes personnages représentent un personnage que le joueur devra utiliser pour écrire le livre.
+Les cartes personnages représentent un personnage. Elles contiennent 
+
+* Nom (ex. Moïse)
+* Livres qu'il peut écrire (ex. Pentateuque, Job)
+* Cartes expériences nécessaires pour écrire chaque livre (ex.
+ * Pentateuque : Moïse sauvé des eaux, Moïse à Madian, Moïse ouvre la mer, Moïse construit le sanctuaire
+ * Job : Moïse sauvé des eaux, Moïse à Madian)
+* Cartes personnages nécessaires pour écrire chaque livre (ex.
+ * Pentateuque : Aaron, Séphora)
 
 ## Les cartes expérience
 
