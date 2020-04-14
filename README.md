@@ -20,9 +20,10 @@ Les cartes expérience sont composées des éléments suivants.
 
 * Nom (ex. Moïse à Madian)
 * Référence (ex. Exode 3 à 4)
+* Résumé (facultatif, ex. Moïse apprit la vie simple et désertique au désert de Madian. Il s'y maria avec la fille du prêtre Jethro)
 * Personnages qui en ont besoin (ex. Moïse)
 
-Les cartes expérience sont des versets de la vie d'un personnage. Si le joueur connait par coeur la carte, il n'en a pas besoin. Pour prouver qu'il la connait par coeur, il suffit d'aller vérifier dans la liste des cartes, que le nom de la carte corre
+Les cartes expérience sont des versets de la vie d'un personnage. Si le joueur connait par coeur la référence qui va avec le nom de la carte expérience qu'il cherche, il n'a pas besoin d'avoir la carte pour écrire le livre. Pour prouver qu'il connait la carte par coeur, un autre joueur vérifie que la carte correspond à ce qui a été récité.
 
 ## Les cartes outil
 
