@@ -16,7 +16,13 @@ Chaque personnage a une liste de cartes outil et de cartes expérience nécessai
 
 ## Les cartes expérience
 
-Les cartes expérience sont des versets de la vie du personnage. Si le joueur connait par coeur la carte, il n'en a pas besoin. Pour prouver qu'il la connait par coeur, il lui suffit 
+Les cartes expérience sont composées des éléments suivants.
+
+* Nom (ex. Moïse à Madian)
+* Référence (ex. Exode 3 à 4)
+* Personnages qui en ont besoin (ex. Moïse)
+
+Les cartes expérience sont des versets de la vie d'un personnage. Si le joueur connait par coeur la carte, il n'en a pas besoin. Pour prouver qu'il la connait par coeur, il suffit d'aller vérifier dans la liste des cartes, que le nom de la carte corre
 
 ## Les cartes outil
 
