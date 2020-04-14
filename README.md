@@ -9,12 +9,13 @@ Ecrire un maximum de livres de la Bible
 # Principe du jeu
 
 Chaque livre a une liste de cartes personnages nécessaires pour écrire le livre.
-Chaque personnage a une liste de cartes versets nécessaires pour compléter la vie du personnage. 
-Il faut compléter la vie du personnage pour l'utiliser et écrire le livre.
+Chaque personnage a une liste de cartes outil et de cartes expérience nécessaires pour lui permettre d'écrire le livre.
 
-# Règles du jeu
+Les cartes expérience
 
-Tous les livres ont besoin de la carte personnage Jésus. Cette carte n'a pas besoin de cartes versets pour compléter sa vie.
+* Des versets qui donnent de l'expérience
+* Des participants qui vont aider à écrire le livre
+* Des objets clés permettant d'écrire le livre
 
 # Déroulement du jeu
 
@@ -25,12 +26,11 @@ Il faut que chacun ait au moins une carte personnage.
 
 ## Déroulement du jeu
 
-Pour obtenir des cartes, différentes solutions :
+Pour obtenir des cartes outil ou des cartes expérience, différentes solutions :
 
-* Piocher
 * Demander à quelqu'un (comme aux sept familles)
-* Citer de mémoire la carte (uniquement pour les versets)
-* Echanger un personnage avec un autre joueur
+* Citer de mémoire la carte
+* Echanger des cartes avec un autre joueur
 
 ## Fin du jeu
 
