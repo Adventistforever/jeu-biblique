@@ -70,4 +70,6 @@ Il est aussi possible d'augmenter l'expérience du personnage en citant le verse
 
 ## Fin du jeu
 
-Toute la Bible est complète ou la venue de Jésus.
+Toute la Bible est complète !
+
+i.e. tous les livres disponibles dans le jeu ont été écrits.
