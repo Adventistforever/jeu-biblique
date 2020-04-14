@@ -10,11 +10,11 @@ Ecrire un maximum de livres de la Bible
 
 Chaque livre a une liste de cartes personnages nécessaires pour écrire le livre.
 
-Chaque personnage a une liste de cartes outil et de cartes expérience nécessaires pour lui permettre d'écrire le livre. Quand le personnage a toute l'expérience et tous les outils dont il a besoin, il pourra écrire le livre !
+Chaque personnage a une liste de cartes outil, de cartes expérience et de cartes personnages nécessaires pour lui permettre d'écrire le livre. Quand le personnage a toute l'expérience, tous les outils et tous les personnages dont il a besoin, il pourra écrire le livre !
 
 ## Les cartes personnage
 
-Les cartes personnages sont composées 
+Les cartes personnages représentent un personnage que le joueur devra utiliser pour écrire le livre.
 
 ## Les cartes expérience
 
@@ -37,7 +37,7 @@ Les cartes outil sont des éléments qui aident ou désavantagent les personnage
 * Nom (ex. Lion)
 * Personnages affectés et l'effet donné (ex.1 Daniel est dans la fosse au lions, passe un tour. David tue le lion, pioche une 2ème fois. etc. )
 
-Certaines cartes outil, même si ils désavantagent le joueur, le personnage peut en avoir besoin.
+Certaines cartes outil, même si ils désavantagent le joueur, le personnage peut en avoir besoin pour écrire le livre.
 
 # Déroulement du jeu
 
@@ -50,9 +50,12 @@ Il faut que chacun ait au moins une carte personnage.
 
 Pour obtenir des cartes outil ou des cartes expérience, différentes solutions :
 
+* Piocher
 * Demander à quelqu'un (comme aux sept familles)
+  * Echec : Piocher
+  * Réussite : nouveau tour
 * Citer de mémoire la carte
-* Echanger des cartes avec un autre joueur
+* Discuter pour échanger des cartes avec un autre joueur
 
 ## Fin du jeu
 
