@@ -21,7 +21,7 @@ Les cartes personnages représentent un personnage. Elles contiennent
 * Nom (ex. Moïse)
 * Livres qu'il peut écrire (ex. Pentateuque, Job)
 * Cartes expériences nécessaires pour écrire chaque livre (ex.
-+ Pentateuque : Moïse sauvé des eaux, Moïse à Madian, Moïse ouvre la mer, Moïse construit le sanctuaire
+	* Pentateuque : Moïse sauvé des eaux, Moïse à Madian, Moïse ouvre la mer, Moïse construit le sanctuaire
  * Job : Moïse sauvé des eaux, Moïse à Madian)
 * Cartes personnages nécessaires pour écrire chaque livre (ex.
  * Pentateuque : Aaron, Séphora)
