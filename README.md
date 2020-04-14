@@ -64,8 +64,9 @@ Pour obtenir des cartes outil ou des cartes expérience, différentes solutions 
 * Demander à quelqu'un (comme aux sept familles)
   * Echec : Piocher
   * Réussite : nouveau tour
-* Citer de mémoire la carte
 * Discuter pour échanger des cartes avec un autre joueur
+
+Il est aussi possible d'augmenter l'expérience du personnage en citant le verset correspondant à la carte expérience souhaitée. 
 
 ## Fin du jeu
 
