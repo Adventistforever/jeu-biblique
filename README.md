@@ -20,9 +20,8 @@ Les cartes personnages représentent un personnage. Elles contiennent
 
 * Nom (ex. Moïse)
 * Livres qu'il peut écrire (ex. Pentateuque, Job)
-* Cartes expériences nécessaires pour écrire chaque livre (ex.
-	* Pentateuque : Moïse sauvé des eaux, Moïse à Madian, Moïse ouvre la mer, Moïse construit le sanctuaire
-	* Job : Moïse sauvé des eaux, Moïse à Madian)
+* Cartes expériences et leur valeur (ex.
+	* Moïse sauvé des eaux 10 points, Moïse à Madian 50 points, Moïse ouvre la mer 50 points, Moïse construit le sanctuaire 100 points)
 * Cartes personnages nécessaires pour écrire chaque livre (ex.
 	* Pentateuque : Aaron, Séphora)
 
@@ -50,6 +49,7 @@ Les cartes outil sont des éléments qui aident ou désavantagent les personnage
 
 * Nom (ex. Lion)
 * Personnages affectés et l'effet donné (ex.1 Daniel est dans la fosse au lions, passe un tour. David tue le lion, pioche une 2ème fois. etc. )
+* Valeur (ex. 20 points)
 
 Certaines cartes outil, même si ils désavantagent le joueur, le personnage peut en avoir besoin pour écrire le livre.
 
@@ -90,6 +90,7 @@ Il faut que chacun ait au moins une carte personnage.
 
 ## Déroulement du jeu
 
+### Tour
 Pour obtenir des cartes outil ou des cartes expérience, différentes solutions :
 
 * Piocher
@@ -97,6 +98,7 @@ Pour obtenir des cartes outil ou des cartes expérience, différentes solutions 
 * Demander à quelqu'un (comme aux sept familles)
 	* Echec : Piocher
 	* Réussite : nouveau tour
+* Faire un appel d'offre
 * Discuter pour échanger des cartes avec un autre joueur
 	* L'échange de carte se fait par entre cartes de la même valeur
 
