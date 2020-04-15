@@ -59,14 +59,27 @@ Certaines cartes outil, même si ils désavantagent le joueur, le personnage peu
 
 Les cartes lettre sont des cartes qui contiennent une lettre en grec ou en hébreu.
 
+* Lettre (ex. א)
+* Nom (ex. Aleph)
+* Valeur (ex. 10 points)
+
 Chaque carte expérience a un "code original" dans le livre du scribe (qui correspond à un mot hébreu ou grec). En combinant les lettres composant le "code original" d'une carte, on peut obtenir une carte expérience sans rien faire de plus.
+
+### Les cartes monnaie
+
+Les cartes monnaie portent le nom de véritables monnaies de l'époque, et servent uniquement à l'échange de carte.
+
+* Nom (ex. Talent)
+* Valeur (ex. 100 points)
 
 ## Le livre du scribe
 
 Dans le livre du scribe se trouvent toutes les informations qui ne sont pas sur les cartes dont : 
 
+* les règles ici présentes
 * une liste des livres avec leurs personnages nécessaires
-* une liste des cartes expérience par ordre alphabétique avec leurs "codes originaux" (ex. מדין : Midian)
+* une liste des noms des cartes expérience par ordre alphabétique avec leurs "codes originaux" (ex. מדין : Midian)
+* d'autres infos intéressantes sur la Bible
 
 # Déroulement du jeu
 
