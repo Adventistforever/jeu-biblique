@@ -1,19 +1,18 @@
 # Jeu Biblique : Ecrire la Bible
 
+# Contenus du jeu
+
 # But du jeu
 
 Ecrire un maximum de livres de la Bible
 
 # Principe du jeu
 
-Chaque livre a une liste de cartes nécessaires pour écrire le livre. 
+Chaque livre a une liste de cartes personnages nécessaires pour écrire le livre.
 
-Il faut :
-* Cartes Contenu du livre
-* Cartes Auteurs du livre
-* Carte Jésus 
+Chaque personnage a une liste de cartes expérience et de cartes personnages nécessaires pour lui permettre d'écrire le livre. Quand le personnage a toute l'expérience et tous les personnages dont il a besoin, il pourra écrire le livre !
 
-
+Attention ! Les cartes expérience peuvent avoir besoin de cartes outil !
 
 ## Les cartes personnage
 
