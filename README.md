@@ -61,6 +61,7 @@ Il faut que chacun ait au moins une carte personnage.
 Pour obtenir des cartes outil ou des cartes expérience, différentes solutions :
 
 * Piocher
+
 * Demander à quelqu'un (comme aux sept familles)
   * Echec : Piocher
   * Réussite : nouveau tour
