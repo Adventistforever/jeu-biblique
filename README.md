@@ -13,8 +13,6 @@ Il faut :
 * Cartes Auteurs du livre
 * Carte Jésus 
 
-
-
 ## Les cartes personnage
 
 Les cartes personnages représentent un personnage. Elles contiennent 
