@@ -1,4 +1,4 @@
-# Jeu Biblique : Ecrire la Bible
+# Jeu Biblique : Ancient Spells _ Eternal words
 
 # But du jeu
 
