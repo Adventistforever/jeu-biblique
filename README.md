@@ -1,4 +1,4 @@
-# Jeu Biblique : Ancient Spells _ Eternal words
+# Jeu Biblique : Ancient Spells _ Biblical Adventures
 
 # But du jeu
 
